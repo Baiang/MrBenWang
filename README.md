@@ -1,8 +1,7 @@
 ### Hi there 👋
 
-[![Ben Wang's GitHub Stats](https://github-readme-stats.vercel.app/api?username=MrBenWang&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MrBenWang&hide_langs_below=1)
-
-[![bind-refactor](https://github-readme-stats.vercel.app/api/pin/?username=MrBenWang&repo=bind-refactor)](https://github.com/anuraghazra/github-readme-stats)
+[![Ben Wang's GitHub Stats](https://github-readme-stats.vercel.app/api?username=MrBenWang&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)  
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MrBenWang&hide_langs_below=1)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **MrBenWang/MrBenWang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
